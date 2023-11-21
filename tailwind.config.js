@@ -15,4 +15,11 @@ module.exports = {
     },
   },
   plugins: [],
+  // safelist: [
+  //   {pattern: /bg-./},
+  //   {pattern: /border-./,
+  //   variants: ['focus', 'hover']},
+  //   {pattern: /ring-./,
+  //   variants: ['focus', 'hover']},
+  // ]
 }
